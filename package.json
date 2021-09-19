@@ -1,0 +1,16 @@
+{
+  "name": "ipaddy.net",
+  "version": "1.0.0",
+  "description": "Returns your Public IP Address. That's it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paramdeo/ipaddy.net.git"
+  },
+  "author": "Paramdeo Singh",
+  "license": "MIT",
+  "homepage": "https://use.ipaddy.net"
+}
